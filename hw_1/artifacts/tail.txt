@@ -1,0 +1,62 @@
+python tail.py text.txt
+abc defgh ghgtf
+jjj kkkk kjl
+ghghhg fdfdf kjkj
+gcgh lkklk kklk
+
+python tail.py text.txt file.txt
+==> text.txt <==
+abc defgh ghgtf
+jjj kkkk kjl
+ghghhg fdfdf kjkj
+gcgh lkklk kklk
+==> file.txt <==
+abc def
+vjg jgh
+hgh ggh
+
+python tail.py -
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+^Z
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z

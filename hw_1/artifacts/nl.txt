@@ -1,0 +1,14 @@
+python nl.py text.txt
+1 abc defgh ghgtf
+2 jjj kkkk kjl
+3 ghghhg fdfdf kjkj
+4 gcgh lkklk kklk
+
+python nl.py -
+abc def
+xyz fgh
+jkl
+^Z
+1 abc def
+2 xyz fgh
+3 jkl

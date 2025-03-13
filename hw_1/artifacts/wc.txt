@@ -1,0 +1,14 @@
+python wc.py text.txt
+ 3 12 65 text.txt
+
+python wc.py text.txt file.txt
+ 3 12 65 text.txt
+ 2 6 25 file.txt
+ 5 18 90 total
+
+python wc.py -
+abc def
+xyz
+vbh hghgjg
+^Z
+ 3 5 23
